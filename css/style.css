@@ -11693,6 +11693,19 @@ html {
         line-height: 2.5rem;
     }
 }
+.dance:hover{
+  transform: rotate(360deg);
+  -moz-transform: rotate(360deg);
+  -webkit-transform: rotate(360deg);
+  transform-origin: center;
+  -moz-transform-origin: center;
+  -webkit-transform-origin: center;
+  transition:  2s ease all;
+  -moz-transition: 2s ease all;
+  -webkit-transition:  2s ease all;
+
+}
+
 
 .footer {
     padding-top: 5rem;
