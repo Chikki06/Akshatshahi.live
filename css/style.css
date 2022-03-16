@@ -1,4 +1,4 @@
-﻿@charset "UTF-8";
+@charset "UTF-8";
 /*!
 * Start Bootstrap - Freelancer v7.0.3 (https://startbootstrap.com/theme/freelancer)
 * Copyright 2013-2021 Start Bootstrap
@@ -11693,19 +11693,6 @@ html {
         line-height: 2.5rem;
     }
 }
-.dance:hover{
-  transform: rotate(360deg);
-  -moz-transform: rotate(360deg);
-  -webkit-transform: rotate(360deg);
-  transform-origin: center;
-  -moz-transform-origin: center;
-  -webkit-transform-origin: center;
-  transition:  2s ease all;
-  -moz-transition: 2s ease all;
-  -webkit-transition:  2s ease all;
-
-}
-
 
 .footer {
     padding-top: 5rem;
